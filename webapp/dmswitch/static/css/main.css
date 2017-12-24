@@ -1,0 +1,8 @@
+body {
+  font-size: 25px;
+}
+
+p.bg-danger, p.bg-success{
+    padding: 10px;
+
+}

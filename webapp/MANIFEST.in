@@ -1,0 +1,2 @@
+recursive-include dmswitch/templates *
+recursive-include dmswitch/static *
